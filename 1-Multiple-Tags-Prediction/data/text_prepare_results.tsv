@@ -1,0 +1,101 @@
+	Original	Prepared
+0	SQLite/PHP read-only?	sqlite php readonly
+1	Creating Multiple textboxes dynamically	creating multiple textboxes dynamically
+2	that, self or me — which one to prefer in JavaScript?	self one prefer javascript
+3	Save PHP date string into MySQL database as timestamp	save php date string mysql database timestamp
+4	How I can fill my DropDownList with Data from a XML File in my ASP.NET Application	fill dropdownlist data xml file aspnet application
+5	"Programmatically trigger a jQuery-UI draggable's ""drag"" event"	programmatically trigger jqueryui draggables drag event
+6	How to get the value of a method argument via reflection in Java?	get value method argument via reflection java
+7	Knockout maping.fromJS for observableArray from json object. Data gets lost	knockout mapingfromjs observablearray json object data gets lost
+8	Facebook Connect from Localhost, doing some weird stuff	facebook connect localhost weird stuff
+9	fullcalendar prev / next click	fullcalendar prev next click
+10	SyntaxError: Unexpected token	syntaxerror unexpected token
+11	What is the most effective way for float and double comparison?	effective way float double comparison
+12	"""gem install rails"" fails with DNS error"	gem install rails fails dns error
+13	Why is listShuttle component in richFaces not getting updated?	listshuttle component richfaces getting updated
+14	Laravel Response::download() to show images in Laravel	laravel responsedownload show images laravel
+15	What is wrong with this Rspec test	wrong rspec test
+16	Calendar display using Java Swing	calendar display using java swing
+17	python selenium import my regular firefox profile ( add-ons)	python selenium import regular firefox profile addons
+18	Random Number between 2 variables/values	random number 2 variables values
+19	Altering HTTP Responses in Firefox Extension	altering http responses firefox extension
+20	How do I start a session in a Python web application?	start session python web application
+21	Align radio buttons horizontally in django forms	align radio buttons horizontally django forms
+22	Count Number of Rows in a SQLite Database	count number rows sqlite database
+23	Wordpress - wp_rewrite rules	wordpress wp_rewrite rules
+24	Removing sheet from Excel 2005 using PHP	removing sheet excel 2005 using php
+25	php Fatal error: Function name must be a string in	php fatal error function name must string
+26	"How to Avoid ""Used by another process"" When using File.Copy in C#"	avoid used another process using filecopy c#
+27	PHP calling a class method with class name as variable string	php calling class method class name variable string
+28	Vector iterator not dereferencable in for loop	vector iterator dereferencable loop
+29	mySQL Search Statement with Multiple filters	mysql search statement multiple filters
+30	PHP: Is there any Bluetooth RFCOMM library?	php bluetooth rfcomm library
+31	Alternatives to Java's Scanner class for console input	alternatives javas scanner class console input
+32	PHP not displaying errors	php displaying errors
+33	how to check whether two matrixes are identical in OpenCV	check whether two matrixes identical opencv
+34	Open all external links open in a new tab apart from a domain	open external links open new tab apart domain
+35	Registry.GetValue always return null	registrygetvalue always return null
+36	Installing eventmachine on windows 8	installing eventmachine windows 8
+37	Calculate Throughput	calculate throughput
+38	Want to seperate the integer part and fractional part of float number in python	want seperate integer part fractional part float number python
+39	How to properly manage Tomcat web apps inside Eclipse?	properly manage tomcat web apps inside eclipse
+40	Having trouble setting headers in a QNetworkRequest, can't understand why	trouble setting headers qnetworkrequest cant understand
+41	Extend Request class in Laravel 5	extend request class laravel 5
+42	What is the difference between matrix() and as.matrix() in r?	difference matrix asmatrix r
+43	Install ClickOnce without running	install clickonce without running
+44	jQuery - selected option value contains string	jquery selected option value contains string
+45	Error while deploying to Tomcat: tomcatManager status code:404, ReasonPhrase:Not Found	error deploying tomcat tomcatmanager status code404 reasonphrasenot found
+46	Pretty Print Distances for iOS	pretty print distances ios
+47	error: expected unqualified-id before ‘const’ on line 8	error expected unqualifiedid const line 8
+48	Mocking Reflection based calls	mocking reflection based calls
+49	How to set Blank excel cell using POI	set blank excel cell using poi
+50	XCode - Code Coverage?	xcode code coverage
+51	Creating an Interactive bar Chart out of Google Analytics Data	creating interactive bar chart google analytics data
+52	math.h compilation error: expected declaration specifiers or '...' before '('	mathh compilation error expected declaration specifiers
+53	Disadvantage of object composition over class inheritance	disadvantage object composition class inheritance
+54	com.mongodb.MongoTimeoutException: Timed out after 10000 ms while waiting to connect	commongodbmongotimeoutexception timed 10000 ms waiting connect
+55	Python Pandas : How to skip columns when reading a file?	python pandas skip columns reading file
+56	Unable to get property '1' of undefined or null reference	unable get property 1 undefined null reference
+57	PyDev-Eclipse Python not configured	pydeveclipse python configured
+58	Python socket server receive image	python socket server receive image
+59	What is an Event Handle?	event handle
+60	LD_LIBRARY_PATH ignored on Android sometimes	ld_library_path ignored android sometimes
+61	Coin toss with JavaScript and HTML	coin toss javascript html
+62	Most efficient way to concatenate strings?	efficient way concatenate strings
+63	java.lang.NullPointerException when trying to read files	javalangnullpointerexception trying read files
+64	Assigning a lambda to an Action<T>	assigning lambda actiont
+65	Split string into a list, but keeping the split pattern	split string list keeping split pattern
+66	Compile C code for Windows 64	compile c code windows 64
+67	Yii Condition with multiple AND/ORs - Operator Precedence	yii condition multiple ors operator precedence
+68	How to show SQL queries run in the Rails console?	show sql queries run rails console
+69	How to change view-state value dynamically?	change viewstate value dynamically
+70	Best Practice For List of Polymorphic Objects in C++	best practice list polymorphic objects c++
+71	Javascript: how to get values from all selected checkboxes from a table	javascript get values selected checkboxes table
+72	In python, how to convert a hex ascii string to raw internal binary string?	python convert hex ascii string raw internal binary string
+73	Magento multi language rewrites SEO fix?	magento multi language rewrites seo fix
+74	ul in the form not sending to the $_POST	ul form sending _post
+75	showing alert box using php and javascript	showing alert box using php javascript
+76	Google Maps API v3: Looping through and adding polylines to a map	google maps api v3 looping adding polylines map
+77	PHP remove characters after last occurrence of a character in a string	php remove characters last occurrence character string
+78	How to use Qt Creator with Visual C++ compiler on windows?	use qt creator visual c++ compiler windows
+79	Apache spark and python lambda	apache spark python lambda
+80	Adjusting camera for visible Three.js shape	adjusting camera visible threejs shape
+81	Python imaging library show() on Windows	python imaging library show windows
+82	How to open and close a website using default browser with python	open close website using default browser python
+83	PHP security: 'Nonce' or 'unique form key' problem	php security nonce unique form key problem
+84	Spring Batch: SimpleJobRepository - Example not working	spring batch simplejobrepository example working
+85	"Why am I getting OleDBException ""No value given for one or more required parameters?"""	getting oledbexception value given one required parameters
+86	Why PHP session is deleted on page reload?	php session deleted page reload
+87	Vaadin multiple browser windows/tabs	vaadin multiple browser windows tabs
+88	Frustrating UIWebView Delegate Crash issue	frustrating uiwebview delegate crash issue
+89	Load factor and capacity of Hash Table	load factor capacity hash table
+90	How do I format a double to a string and only show decimal digits when necessary?	format double string show decimal digits necessary
+91	Round off in JAVA	round java
+92	Using a USB printer with C#, with and without driver or API	using usb printer c# without driver api
+93	Unbalanced parenthesis error with Regex	unbalanced parenthesis error regex
+94	Reading an Excel file with C# causes OleDbException to be thrown	reading excel file c# causes oledbexception thrown
+95	I want to compare the (dt.Rows[1].ItemArray[1].ToString()) with 1,2,3,4 : but does not Work?? show me error	want compare dtrows 1 itemarray 1 tostring 1 2 3 4 work show error
+96	java.nio.charset.MalformedInputException: Input length = 1	javaniocharsetmalformedinputexception input length 1
+97	Join two un-related tables using JPA EntityManager	join two unrelated tables using jpa entitymanager
+98	Ensuring Thread-Safety On Static Methods In C#	ensuring threadsafety static methods c#
+99	loop focus of input fields inside a form	loop focus input fields inside form
